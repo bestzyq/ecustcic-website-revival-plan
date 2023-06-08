@@ -1,4 +1,6 @@
 # ECUSTCIC网站复活计划
+<a href='https://github.com/chinazyq123/ecustcic-website-revival-plan'><img alt="GitHub stars" src="https://img.shields.io/github/stars/chinazyq123/ecustcic-website-revival-plan?logo=github"></a>
+[![Gitee stars](https://gitee.com/chinazyq/ecustcic-website-revival-plan/badge/star.svg?theme=dark)](https://gitee.com/chinazyq/ecustcic-website-revival-plan)  
 
 #### 介绍
 ECUSTCIC网站复活计划
