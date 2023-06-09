@@ -11,6 +11,4 @@ ECUSTCIC网站复活计划
 #### 进度
 2023-06-28  维修表单
 找到了前人项目，Over  
-https://github.com/ecustcic/www-ecust-cic-com/
-
-
+[ecustcic/www-ecust-cic-com](https://github.com/ecustcic/www-ecust-cic-com/)
